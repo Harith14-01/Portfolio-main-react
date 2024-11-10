@@ -8,7 +8,7 @@ const Hero = () => {
     <div id='about' className='grid grid-cols-1 sm:grid-cols-3 gap-8 max-w-[1100px] md:h-[9 0vh] mx-auto py-8 bg-black'>
 
        <div className='col-span-1 my-auto mx-auto w-[300px] h-auto lg:w-[400px]'>
-            <img className='w-[150vh] h-[70vh] lg:w-[200px] px-3 ml-2 rounded-md' src={heroImage} alt='hero image'/>            
+            <img className='w-[150vh] h-[70vh] lg:w-[200px] px-3 ml-2 rounded-md' src={heroImage} alt='Portrait of Harith Sambaraju'/>            
        </div>
 
         <div className='col-span-2 px-5 my-auto'>

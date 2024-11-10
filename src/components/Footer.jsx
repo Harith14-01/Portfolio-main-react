@@ -27,7 +27,7 @@ const Footer = () => {
           <CiLinkedin />
           <a href='https://www.linkedin.com/in/harith-sambaraju-099703249/'
               target='_blank'
-              rel='noopener no referrer'
+              rel='noopener noreferrer'
               className='hover:underline
               cursor-pointer'>
                 Linkedin Profile
@@ -38,7 +38,7 @@ const Footer = () => {
           {/* https://github.com/Harith14-01 */}
           <a href='https://github.com/Harith14-01'
               target='_blank'
-              rel='noopener no referrer'
+              rel='noopener noreferrer'
               className='hover:underline
               cursor-pointer'>
                 Github Profile
